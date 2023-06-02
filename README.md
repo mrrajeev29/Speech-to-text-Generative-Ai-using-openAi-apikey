@@ -1,0 +1,1 @@
+# Speech_to_text_Generative_Ai_using_openAi_apikey
